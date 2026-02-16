@@ -5,7 +5,7 @@ public class Test2 {
 		System.out.println("In click() with 0 arguments");
 	}
 	public void click(String WebElement) {
-		System.out.println("In click(String) with String arguments");
+		System.out.println("In click(String) with String arguments,123");
 		System.out.println("WebElement: "+WebElement);
 	}
 	public static void click(int xAxis, int yAxis) {
